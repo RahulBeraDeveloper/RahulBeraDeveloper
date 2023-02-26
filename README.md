@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Aesthetic_thoughts-red)](youtube.com/shorts/VZPw88aavDA?feature=share)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Aesthetic_thoughts-red)](https://youtube.com/shorts/VZPw88aavDA?feature=share)
 [![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rahul-bera-108021215/)](https://www.linkedin.com/in/rahul-bera-108021215/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 
