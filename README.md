@@ -4,12 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rahul-bera-108021215/)](https://www.linkedin.com/in/rahul-bera-108021215/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Rahul-green)](https://rahulberadeveloper.github.io/myPersonalWebsite/)
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
-  </a>
-</div>)
+
 
 
 I'm
